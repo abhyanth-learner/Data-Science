@@ -1,0 +1,78 @@
+PRODUCTID,PRODUCTNAME,SUPPLIERID,CATEGORYID,UNIT,PRICE
+1,Chai,1,1,20 bags,18
+2,Pakode,1,1,5 kg,19
+3,Samosa,1,2,3 kg,10
+4,Paneer Tikka,2,2,6 jars,22
+5,Butter Chicken,2,2,36 boxes,21.35
+6,Dal Makhani,3,2,12 jars,25
+7,Rajma,3,7,12 pkgs.,30
+8,Aloo Gobi,3,2,12 jars,40
+9,Chawal,4,6,18 pkgs.,97
+10,Pulav,4,8,12 jars,31
+11,Biryani,5,4,1 kg,21
+12,Roti,5,4,10 pkgs.,38
+13,Naan,6,8,48 pieces,6
+14,Paratha,6,7,40 pkgs.,23.25
+15,Payas,6,2,24 bottles,15.5
+16,Rasgulla,7,3,32 boxes,17.45
+17,Gulab Jamun,7,6,20 tins,39
+18,Kheer,7,8,16 kg,62.5
+19,Kulfi,8,3,12 pieces,9.2
+20,Ladoo,8,3,30 gift boxes,81
+21,Chutney,8,3,24 pkgs.,10
+22,Masala Chai,9,5,24 pkgs.,21
+23,Dahi,9,5,12 pkgs.,9
+24,Raita,10,1,12 cans,4.5
+25,Salam,11,3,20 glasses,14
+26,Kadhi,11,3,100 bags,31.23
+27,Khichdi,11,3,100 pieces,43.9
+28,Paneer Bhurji,12,7,25 cans,45.6
+29,Chole Masala,12,6,50 bags,123.79
+30,Matar Pulav,13,8,10 glasses,25.89
+31,Poha,14,4,12 pkgs.,12.5
+32,Upma,14,4,24 pkgs.,32
+33,Achar,15,4,500 g,2.5
+34,Bhindi,16,1,24 bottles,14
+35,Gajar ka Halwa,16,1,24 bottles,18
+36,Dal Tadka,17,8,24 jars,19
+37,Masaledar Aloo,17,8,12 pkgs.,26
+38,Bedmi Puri,18,1,12 bottles,263.5
+39,Soup,18,1,24 tins,18
+40,Biryani Patte,19,8,12 cans,18.4
+41,Bhune Chane,19,8,32 pkgs.,9.65
+42,Tandoori Chicken,20,5,16 tins,14
+43,Pakode Chaat,20,1,20 bags,46
+44,Masala Popcorn,20,2,20 bags,19.45
+45,Pizza,21,8,1 kg,9.5
+46,Dahi Bhalla,21,8,4 glasses,12
+47,Kachori,22,3,10 boxes,9.5
+48,Super Hot Chutney,22,3,10 pkgs.,12.75
+49,Tawa Pulav,23,3,24 pkgs.,20
+50,Falooda,23,3,12 bars,16.25
+51,Aam ki Laouz,24,7,50 pkgs.,53
+52,Kashmiri Paneer,24,5,16 boxes,7
+53,Kulcha,24,6,48 pieces,32.8
+54,Paneer Pakoda,25,6,16 pies,7.45
+55,Patte Wali Sabzi,25,6,24 boxes,24
+56,Nashtay ke liye Ande,26,5,24 pkgs.,38
+57,Rotiyon ki Thali,26,5,24 pkgs.,19.5
+58,Chole Bhature,27,8,24 pieces,13.25
+59,Sev Puri,28,4,5 kg,55
+60,Lauki ka Halwa,28,4,15 rounds,34
+61,Jalebi,29,2,24 bottles,28.5
+62,Sambar,29,3,48 pieces,49.3
+63,Pyaaz Kachori,7,2,15 jars,43.9
+64,Aloo Matar,12,5,20 bags,33.25
+65,Pathari Chawal,2,2,24 bottles,21.05
+66,Sarve Chaat,2,2,24 jars,17
+67,Savani Barfi,16,1,24 bottles,14
+68,Paneer Hakka,8,3,8 pieces,12.5
+69,Chatpata Puchka,15,4,10 kg,36
+70,Omelette,7,1,24 bottles,15
+71,Big Bread,15,4,10 pkgs.,21.5
+72,Dhi Chawal,14,4,24 pkgs.,34.8
+73,Fruit Chaat,17,8,24 jars,15
+74,Boondi,4,7,5 kg,10
+75,Papdi,12,1,500 ml,7.75
+76,Shahi Tukda,23,1,500 ml,18
+77,Vada Pav,12,2,12 boxes,13

@@ -1,0 +1,30 @@
+SUPPLIERID,SUPPLIERNAME,CONTACTNAME,ADDRESS,CITY,POSTALCODE,COUNTRY,PHONE
+1,Desi Spices,Ravi Sharma,49 MG Road,Mumbai,400001,UK,9876543210
+2,Biryani Hub,Sita Verma,P.O. Box 78934,Hyderabad,500034,USA,8765432109
+3,Aunty Jaya Kitchen,Jaya Mehta,707 Dadar Rd,Mumbai,400014,USA,7654321098
+4,Delhi Tandoori,Rahul Kapoor,9 Connaught Place,Delhi,110001,Japan,6543210987
+5,Chaat Junction,Amit Singh,Calle del Chaat 4,Agra,282001,Spain,5432109876
+6,Sushi India,Nina Patel,92 MG Road,Bangalore,560001,Japan,4321098765
+7,Curry Leaves,Karan Joshi,74 Baner Road,Pune,411045,Australia,3210987654
+8,Sweet Treats,Anjali Rao,29 Brigade Road,Bangalore,560025,UK,2109876543
+9,Knack Bread,Vikram Das,Kaloadagatan 13,Kolkata,700001,Sweden,1098765432
+10,Fresh Juices,Rohit Gupta,Av. das Juices 12,Chennai,600001,Brazil,0987654321
+11,Sweet Delights,Priya Nair,5 Shanti Niketan,Delhi,110021,Germany,9876543210
+12,Green Grocers,Sanjay Kumar,51 Anand Niketan,Delhi,110021,Germany,8765432109
+13,Ocean Fisheries,Manoj Verma,112 Marine Drive,Mumbai,400020,Germany,7654321098
+14,Cheese Factory,Sunil Rao,75 Cheese Lane,Pune,411027,Italy,6543210987
+15,Dairy Products,Reema Shah,5 Shanti Niketan,Ahmedabad,380001,Norway,5432109876
+16,Brewery Town,Ravi Soni,3400 8th Avenue Suite 210,Bhopal,462001,USA,4321098765
+17,Fishery Delight,Rahul Bhat,231 Fishermen Lane,Visakhapatnam,530001,Sweden,3210987654
+18,Joyful Eats,Priya Iyer,203 Sector 4,Noida,201301,France,2109876543
+19,Seafood House,Raghav Mehta,2100 Revere Blvd,Chennai,600034,USA,1098765432
+20,Lemon Trading,Chandni Leka,471 Serangoon Loop Suite 402,Kochi,682018,Singapore,0987654321
+21,Fish Market,Nikhil Sharma,Fishery Road 10,Goa,403001,Denmark,9876543210
+22,Sweet Factory,Anjali Bhat,22 Sugar Street,Pune,411037,Netherlands,8765432109
+23,Snack Company,Shreya Shetty,12 Snacker Street,Surat,395001,Finland,7654321098
+24,Mate India,Wendy Singh,170 Prince Edward Parade,Delhi,110030,Australia,6543210987
+25,My Home,Jean Kumar,2960 Patel Street,Mumbai,400035,Canada,5432109876
+26,Pasta Place,Gaurav Mehta,153 Gelsomini Street,Chennai,600028,Italy,4321098765
+27,Nougat House,Maya Chatterjee,22 Sweet Lane,Kolkata,700028,France,3210987654
+28,Gai Snacks,Eliana Rao,Bat B 3 Sweet Street,Hyderabad,500028,France,2109876543
+29,Maple Farms,Chantal Gupta,148 Sweet Lane,Jaipur,302001,Canada,1098765432

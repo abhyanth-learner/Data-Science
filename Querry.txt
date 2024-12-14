@@ -1,0 +1,61 @@
+  to  Everyone
+CREATE TABLE customers (
+  CustomerID INT,
+  CustomerName VARCHAR(255),
+  ContactName VARCHAR(255),
+  Address VARCHAR(255),
+  City VARCHAR(255),
+  PostalCode VARCHAR(255),
+  Country VARCHAR(255),
+  PRIMARY KEY (CustomerID)
+);
+CREATE TABLE employees (
+  EmployeeID INT,
+  LastName VARCHAR(255),
+  FirstName VARCHAR(255),
+  BirthDate DATE,
+  Photo VARCHAR(255),
+  Notes TEXT,
+  PRIMARY KEY (EmployeeID)
+);
+CREATE TABLE order_details(
+  OrderDetailID INT,
+  OrderID INT,
+  ProductID INT,
+  Quantity INT,
+  PRIMARY KEY (OrderDetailID)
+);
+CREATE TABLE orders (
+  OrderID INT,
+  CustomerID INT,
+  EmployeeID INT,
+  OrderDate DATE,
+  ShipperID INT,
+  PRIMARY KEY (OrderID)
+);
+CREATE TABLE products (
+  ProductID INT,
+  ProductName VARCHAR(255),
+  SupplierID INT,
+  CategoryID INT,
+  Unit VARCHAR(255),
+  Price DOUBLE,
+  PRIMARY KEY (ProductID)
+);
+CREATE TABLE shippers (
+  ShipperID INT,
+  ShipperName VARCHAR(255),
+  Phone VARCHAR(255),
+  PRIMARY KEY (ShipperID)
+);
+CREATE TABLE suppliers (
+  SupplierID INT,
+  SupplierName VARCHAR(255),
+  ContactName VARCHAR(255),
+  Address VARCHAR(255),
+  City VARCHAR(255),
+  PostalCode VARCHAR(255),
+  Country VARCHAR(255),
+  Phone VARCHAR(255),
+  PRIMARY KEY (SupplierID)
+);

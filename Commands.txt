@@ -1,0 +1,19 @@
+LOAD DATA LOCAL INFILE 'E:/Data Science/DataSets/vehicle_types.csv' INTO TABLE vehicle_types FIELDS TERMINATED BY ',' ENCLOSED BY '\"' LINES TERMINATED BY '\n' IGNORE 1 LINES
+
+
+
+ LOAD DATA LOCAL INFILE 'E:/Data Science/DataSets/Vehicles_2015.csv' INTO TABLE vehicles FIELDS TERMINATED BY ',' ENCLOSED BY '\"' LINES TERMINATED BY '\n' IGNORE 1 LINES (Accident_Index,@dummy1,Vehicle_Type,@dummy2,@dummy3,@dummy4,@dummy5,Skidding_and_Overturning,@dummy6,@dummy7,@dummy8,@dummy9,@dummy10,@dummy11,Sex_of_Driver,Age_of_Driver,@dummy12,@dummy13,@dummy14,@dummy15,@dummy16,@dummy17,@dummy18);
+
+
+
+LOAD DATA LOCAL INFILE 'E:/Data Science/DataSets/Accidents_2015.csv' INTO TABLE accident FIELDS TERMINATED BY ',' ENCLOSED BY '\"' LINES TERMINATED BY '\n' IGNORE 1 LINES (Accident_Index, @dummy1,@dummy2,@dummy3,@dummy4, Police_Force, Accident_Severity, Number_of_Vehicles, Number_of_Casualties, Date, Day_of_Week, Time, @dummy5, @dummy6,@dummy7,@dully8, Road_Type, Speed_limit, Junction_Detail, @dummy9, @dummy10,@dummy11,@dummy12,Pedestrian_Crossing_Physical_Facilities, Light_Conditions, Weather_Conditions, Road_Surface_Conditions, @dummy13, @dummy14,Urban_or_Rural_Area, Did_Police_Officer_Attend_Scene_of_Accident,@dummy15);
+
+
+
+SET GLOBAL local_infile=1    
+
+
+select DATABASE(); 
+
+
+USE accidents103
