@@ -36,3 +36,5 @@ vehicle_type varchar(10)
 
 
 select Day_of_Week,count(*) from accident group by Day_of_Week order by Day_of_Week
+
+
